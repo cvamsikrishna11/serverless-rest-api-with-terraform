@@ -1,0 +1,95 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Sunrise Dreams",
+        "genre": "Drama",
+        "release_year": 2023,
+        "rating": "PG-13",
+        "duration": "1h 45m",
+        "description": "A heartwarming story about a young woman chasing her dreams in a big city."
+      },
+      {
+        "id": 2,
+        "title": "Robot Uprising",
+        "genre": "Sci-Fi",
+        "release_year": 2022,
+        "rating": "R",
+        "duration": "2h 10m",
+        "description": "Machines have taken over the world. A group of rebels fights back."
+      },
+      {
+        "id": 3,
+        "title": "Enchanted Forest",
+        "genre": "Fantasy",
+        "release_year": 2021,
+        "rating": "PG",
+        "duration": "1h 50m",
+        "description": "A magical world awaits when a young girl discovers a secret door in her backyard."
+      },
+      {
+        "id": 4,
+        "title": "Detective Ramirez",
+        "genre": "Mystery",
+        "release_year": 2022,
+        "rating": "PG-13",
+        "duration": "2h 5m",
+        "description": "A seasoned detective finds himself in the middle of a web of lies and deceit."
+      },
+      {
+        "id": 5,
+        "title": "Space Explorers",
+        "genre": "Adventure",
+        "release_year": 2023,
+        "rating": "PG",
+        "duration": "2h 15m",
+        "description": "A team of astronauts ventures into the unknown, making incredible discoveries along the way."
+      },
+      {
+        "id": 6,
+        "title": "The Last Kingdom",
+        "genre": "Historical",
+        "release_year": 2020,
+        "rating": "R",
+        "duration": "2h",
+        "description": "A tale of kingdoms, betrayals, and the fight for supremacy."
+      },
+      {
+        "id": 7,
+        "title": "Pirates of the Caribbean: Lost Seas",
+        "genre": "Adventure",
+        "release_year": 2021,
+        "rating": "PG-13",
+        "duration": "2h 20m",
+        "description": "Captain Jack Sparrow embarks on a new adventure to find the lost city of Atlantis."
+      },
+      {
+        "id": 8,
+        "title": "Midnight Café",
+        "genre": "Romance",
+        "release_year": 2019,
+        "rating": "PG",
+        "duration": "1h 30m",
+        "description": "Two strangers meet in a café at midnight and share stories of love and loss."
+      },
+      {
+        "id": 9,
+        "title": "The Silent Mountain",
+        "genre": "Drama",
+        "release_year": 2018,
+        "rating": "PG-13",
+        "duration": "1h 55m",
+        "description": "A man's solitary journey to the mountains brings unexpected challenges and self-discoveries."
+      },
+      {
+        "id": 10,
+        "title": "Vampire's Dusk",
+        "genre": "Horror",
+        "release_year": 2022,
+        "rating": "R",
+        "duration": "1h 40m",
+        "description": "As night falls, a town discovers it's under the threat of a vampire clan. Survival becomes a game."
+      }
+    ]
+  }
+  
